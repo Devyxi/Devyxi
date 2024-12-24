@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Devyxi! <img src="https://komarev.com/ghpvc/?username=Devyxi&label=Profile%20views&color=00FFFF&style=flat" alt="Devyxi" />
 
-Welcome to my GitHub profile! I am a passionate Full Stack Developer, CEO of **Digital Inc**, and a sports enthusiast with a keen interest in dodgeball and football
+Welcome to my GitHub profile! I am a passionate Full Stack Developer, CEO of **Stratix HQ**, and a sports enthusiast with a keen interest in dodgeball and football
 
 ![Discord Widget](https://discord.c99.nl/widget/theme-2/1280088562150146152.png)
 
 ## 🌟 About Me
 
-- 👔 CEO & Lead Developer at **Digital Inc** - where we have the best community including hosting / api service
+- 👔 CEO & Lead Developer at **Stratix HQ** - where we have the best community including hosting / api service
 - 🏐 Avid dodgeball and football player - you'll often find me on the court or field, perfecting my game
 - 🤝 Excited to collaborate on projects that unite with discord e.g, creating a better experience for developers / customers
 - 💬 Ask me about **JavaScript**, **Python**, **TypeScript**, and the latest in web development!
@@ -82,20 +82,18 @@ I am proficient in a variety of programming languages and frameworks:
 
 ## 📁 Featured Projects
 
-### [Remizic](https://discord.com/oauth2/authorize?client_id=1280182680994185257&permissions=8&integration_type=0&scope=applications.commands+bot)
+### [Kytro](https://discord.com/oauth2/authorize?client_id=1297802496105906246&permissions=8&integration_type=0&scope=applications.commands+bot)
 - **Description**: Introducing a cutting-edge multipurpose Discord bot, optimized for speed and accuracy with response times around 18ms. Packed with a suite of powerful utility and management features, this bot is regularly updated to introduce new capabilities. Experience seamless performance and innovative tools at your fingertips!
 - **Coding Tools**: NodeJS, MongoDB, SQL
 
 ## 💼 Experience
 
-- **CEO & Lead Developer** at **Digital Inc** (2024 - Present)
+- **CEO & Lead Developer** at **Stratix HQ** (2024 - Present)
   - Leading an innovative hosting and API service that fosters a vibrant community for tech enthusiasts and people who wanna chill. Enjoy a collaborative space to connect and access a wide range of coding resources, including our unique bot shop for dedicated developers to purchase!
-  - https://discord.gg/M375Bh6QyK
+  - https://discord.gg/CSeKHCnrRm
 
 ## 🌐 Connect with Me
-
-- [Twitch](https://www.twitch.tv/devyxi)
-- [Twitter](https://x.com/Devyxi_Official)
+> Coming Soon..
 
 ## 📫 How to Reach Me
 
@@ -107,8 +105,8 @@ Feel free to reach out if you're interested in collaborating, discussing sports 
 
 Join our Discord server for discussions on coding, sports, and everything in between!
 
-<a href="https://discord.gg/M375Bh6QyK">
-    <img src="https://discord.com/api/guilds/1284665613356367932/widget.png?style=banner2" alt="Join our Discord!" />
+<a href="https://discord.gg/CSeKHCnrRm">
+    <img src="https://discord.com/api/guilds/1313056393405927435/widget.png?style=banner2" alt="Join our Discord!" />
 </a>
 
 ---
