@@ -90,7 +90,7 @@ I am proficient in a variety of programming languages and frameworks:
 
 - **CEO & Lead Developer** at **Stratix HQ** (2024 - Present)
   - Leading an innovative hosting and API service that fosters a vibrant community for tech enthusiasts and people who wanna chill. Enjoy a collaborative space to connect and access a wide range of coding resources, including our unique bot shop for dedicated developers to purchase!
-  - https://discord.gg/CSeKHCnrRm
+  - https://discord.gg/d36wMbKHpe
 
 ## 🌐 Connect with Me
 > Coming Soon..
@@ -105,7 +105,7 @@ Feel free to reach out if you're interested in collaborating, discussing sports 
 
 Join our Discord server for discussions on coding, sports, and everything in between!
 
-<a href="https://discord.gg/CSeKHCnrRm">
+<a href="https://discord.gg/d36wMbKHpe">
     <img src="https://discord.com/api/guilds/1313056393405927435/widget.png?style=banner2" alt="Join our Discord!" />
 </a>
 
